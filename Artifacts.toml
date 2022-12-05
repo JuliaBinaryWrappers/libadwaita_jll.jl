@@ -1,0 +1,123 @@
+[[libadwaita]]
+arch = "aarch64"
+git-tree-sha1 = "b0d77ef050291d6b79269af77194aabfdea52d82"
+os = "macos"
+
+    [[libadwaita.download]]
+    sha256 = "7a6fee7b14492de49f73eca6b02dfbda81afe97b8f4276539cab941bd7265627"
+    url = "https://github.com/JuliaBinaryWrappers/libadwaita_jll.jl/releases/download/libadwaita-v1.2.0+0/libadwaita.v1.2.0.aarch64-apple-darwin.tar.gz"
+[[libadwaita]]
+arch = "aarch64"
+git-tree-sha1 = "15a032a0eb1a350c4f8957551df3952f5798d1a5"
+libc = "glibc"
+os = "linux"
+
+    [[libadwaita.download]]
+    sha256 = "bf528b983c391aa99f1ca4b4669e84d41dfc9eb78842b5cc610829eaa4e70580"
+    url = "https://github.com/JuliaBinaryWrappers/libadwaita_jll.jl/releases/download/libadwaita-v1.2.0+0/libadwaita.v1.2.0.aarch64-linux-gnu.tar.gz"
+[[libadwaita]]
+arch = "aarch64"
+git-tree-sha1 = "d022d51430c2dcab20a82bb5cb244d0415445300"
+libc = "musl"
+os = "linux"
+
+    [[libadwaita.download]]
+    sha256 = "cc0c6295c8b34ce3fb8b4e30d5bd4777d99b4d894fdf2f4095d6de227ee015b9"
+    url = "https://github.com/JuliaBinaryWrappers/libadwaita_jll.jl/releases/download/libadwaita-v1.2.0+0/libadwaita.v1.2.0.aarch64-linux-musl.tar.gz"
+[[libadwaita]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "df2b5969d39fb49e9cd7cf4e81e6d243957fc426"
+libc = "glibc"
+os = "linux"
+
+    [[libadwaita.download]]
+    sha256 = "3aa50614a38c4886f4346cd2d51da9d86cfb59e2e878988bfbe91fbd3876cfc4"
+    url = "https://github.com/JuliaBinaryWrappers/libadwaita_jll.jl/releases/download/libadwaita-v1.2.0+0/libadwaita.v1.2.0.armv7l-linux-gnueabihf.tar.gz"
+[[libadwaita]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "42c4aebd2ab7363761e4973a08749ce1da04ec21"
+libc = "musl"
+os = "linux"
+
+    [[libadwaita.download]]
+    sha256 = "ff37d6e14d0a99fa62dc9e3a8fe1cbfa014a17836a106a56bc9a3aec5769dff3"
+    url = "https://github.com/JuliaBinaryWrappers/libadwaita_jll.jl/releases/download/libadwaita-v1.2.0+0/libadwaita.v1.2.0.armv7l-linux-musleabihf.tar.gz"
+[[libadwaita]]
+arch = "i686"
+git-tree-sha1 = "e7a16123c6f12b553ff3ae554d79808a81df25e6"
+libc = "glibc"
+os = "linux"
+
+    [[libadwaita.download]]
+    sha256 = "92cf2b5041ca954e075d03b83baa168a231099699249f2d696c8ac9ac22638cd"
+    url = "https://github.com/JuliaBinaryWrappers/libadwaita_jll.jl/releases/download/libadwaita-v1.2.0+0/libadwaita.v1.2.0.i686-linux-gnu.tar.gz"
+[[libadwaita]]
+arch = "i686"
+git-tree-sha1 = "ae5b87f2d517b73f595d52e86c2d9818f023d2e6"
+libc = "musl"
+os = "linux"
+
+    [[libadwaita.download]]
+    sha256 = "dc40397cac919e55734b6cb88400fb8877c7974b85e43579c3136fc67f229ca6"
+    url = "https://github.com/JuliaBinaryWrappers/libadwaita_jll.jl/releases/download/libadwaita-v1.2.0+0/libadwaita.v1.2.0.i686-linux-musl.tar.gz"
+[[libadwaita]]
+arch = "i686"
+git-tree-sha1 = "2a36f0087fc862ae5ea814690031f57985f45694"
+os = "windows"
+
+    [[libadwaita.download]]
+    sha256 = "371b58c029f07490c443b862a4f2eca09a349cb5551020a1feff40ae90069402"
+    url = "https://github.com/JuliaBinaryWrappers/libadwaita_jll.jl/releases/download/libadwaita-v1.2.0+0/libadwaita.v1.2.0.i686-w64-mingw32.tar.gz"
+[[libadwaita]]
+arch = "powerpc64le"
+git-tree-sha1 = "04473f78fe951b45b400509a41db746f6ef4e8f2"
+libc = "glibc"
+os = "linux"
+
+    [[libadwaita.download]]
+    sha256 = "9e20f6eb5f6b8ef3c6c8bba2c68cb6bce4f59007e1f1c0355dd62942f12bb48b"
+    url = "https://github.com/JuliaBinaryWrappers/libadwaita_jll.jl/releases/download/libadwaita-v1.2.0+0/libadwaita.v1.2.0.powerpc64le-linux-gnu.tar.gz"
+[[libadwaita]]
+arch = "x86_64"
+git-tree-sha1 = "db0674a0ba92be0d6e3b43e5df767eecd7a6753d"
+os = "macos"
+
+    [[libadwaita.download]]
+    sha256 = "aa7186416bcbc338b3978219f4ca799a1f0240422c9c262fadc815d1dd1ba057"
+    url = "https://github.com/JuliaBinaryWrappers/libadwaita_jll.jl/releases/download/libadwaita-v1.2.0+0/libadwaita.v1.2.0.x86_64-apple-darwin.tar.gz"
+[[libadwaita]]
+arch = "x86_64"
+git-tree-sha1 = "73e350119738e52643a9c4925a96e5238ac2f3cf"
+libc = "glibc"
+os = "linux"
+
+    [[libadwaita.download]]
+    sha256 = "83a0726dc52ff123d4300feff50004fa1d26e971303236e315f9b3158121ed7b"
+    url = "https://github.com/JuliaBinaryWrappers/libadwaita_jll.jl/releases/download/libadwaita-v1.2.0+0/libadwaita.v1.2.0.x86_64-linux-gnu.tar.gz"
+[[libadwaita]]
+arch = "x86_64"
+git-tree-sha1 = "4fc5679558acb04d373fa583437f2026a6caaa02"
+libc = "musl"
+os = "linux"
+
+    [[libadwaita.download]]
+    sha256 = "dd315e03d3b24725326e76eccab252d72168dab661c58834cb7704c7dca5492e"
+    url = "https://github.com/JuliaBinaryWrappers/libadwaita_jll.jl/releases/download/libadwaita-v1.2.0+0/libadwaita.v1.2.0.x86_64-linux-musl.tar.gz"
+[[libadwaita]]
+arch = "x86_64"
+git-tree-sha1 = "b74350d7476a532981c75033a9b46b18dfb88c7d"
+os = "freebsd"
+
+    [[libadwaita.download]]
+    sha256 = "cd4eefd719fb013191530a187db1eb128a7ca20d6980a841976a0bd05a3fd6e0"
+    url = "https://github.com/JuliaBinaryWrappers/libadwaita_jll.jl/releases/download/libadwaita-v1.2.0+0/libadwaita.v1.2.0.x86_64-unknown-freebsd.tar.gz"
+[[libadwaita]]
+arch = "x86_64"
+git-tree-sha1 = "f75b47853676d7d7d1040f6e3facb2d7e3dd98f4"
+os = "windows"
+
+    [[libadwaita.download]]
+    sha256 = "2dcd727401bcd5cc98b7ea12b9b166f01757c395b27c00f2985de873b4c9aa52"
+    url = "https://github.com/JuliaBinaryWrappers/libadwaita_jll.jl/releases/download/libadwaita-v1.2.0+0/libadwaita.v1.2.0.x86_64-w64-mingw32.tar.gz"
